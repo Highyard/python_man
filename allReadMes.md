@@ -1,4 +1,5 @@
 ## Required reading
+* [*args and **kwargs in python explained](https://pythontips.com/2013/08/04/args-and-kwargs-in-python-explained/)
 * [12. Virtual Environments and Packages](https://docs.python.org/3/tutorial/venv.html)
 * [3. An Informal Introduction to Python](https://docs.python.org/3.7/tutorial/introduction.html#an-informal-introduction-to-python)
 * [3.1. Using Python as a Calculator](https://docs.python.org/3.7/tutorial/introduction.html#using-python-as-a-calculator)
@@ -8,6 +9,7 @@
 * [4.1. if Statements](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
 * [4.2. for Statements](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
 * [4.3. The range() Function](https://docs.python.org/3/tutorial/controlflow.html#the-range-function)
+* [4.7.5. Lambda Expressions](https://docs.python.org/3/tutorial/controlflow.html?highlight=lambda#lambda-expressions)
 * [5.1. More on Lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
 * [5.3. Tuples and Sequences](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences)
 * [5.5. Dictionaries](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
@@ -15,6 +17,7 @@
 * [5.7. More on Conditions](https://docs.python.org/3/tutorial/datastructures.html#more-on-conditions)
 * [5.8. Comparing Sequences and Other Types](https://docs.python.org/3/tutorial/datastructures.html#comparing-sequences-and-other-types)
 * [5.4. Sets](https://docs.python.org/3/tutorial/datastructures.html#sets)
+* [5.1.3. List Comprehensions](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions)
 * [7.2. Reading and Writing Files](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files)
 * [7.2.1. Methods of File Objects](https://docs.python.org/3/tutorial/inputoutput.html#methods-of-file-objects)
 * [8.4. The try statement](https://docs.python.org/3/reference/compound_stmts.html#the-try-statement)
@@ -39,6 +42,8 @@
 * [The Ultimate Guide to Python Type Checking](https://realpython.com/python-type-checking/#duck-typing)
 * [Unix Commands](/other_materials/unix_commands.md)
 * [Virtual Enviroment setup ](materials/virtual_enviroment_setup.md)
+* [Visual Sorting pdf](Sorting.pdf)
+* Required reading for the algorithms we have worked with the last 2 weeks will come ...
 * [file object](https://docs.python.org/3/glossary.html#term-file-object)
 * [math — Mathematical functions](https://docs.python.org/3.7/library/math.html)
 * [os — Miscellaneous operating system interfaces](https://docs.python.org/3/library/os.html)
