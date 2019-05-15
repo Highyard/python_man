@@ -43,6 +43,8 @@
 * [Set Types — set, frozenset](https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset)
 * [Text Sequence Type — str](https://docs.python.org/3.7/library/stdtypes.html#text-sequence-type-str)
 * [The Ultimate Guide to Python Type Checking](https://realpython.com/python-type-checking/#duck-typing)
+* [Test](test)
+* [TEST](TEST)
 * [Unix Commands](/other_materials/unix_commands.md)
 * [Virtual Enviroment setup ](materials/virtual_enviroment_setup.md)
 * [Visual Sorting pdf](Sorting.pdf)
